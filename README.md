@@ -1,6 +1,6 @@
 # DISCLAIMER
 
-This is the repository related to the paper: L. Roque, Q. Lampin, L-A. Dufrène, G. Larue, G. Lefebvre, M. Assaad, "Compacting Semantic Matryoshka Representations with Product Quantization", accepted to 2025 IEEE Globecom Workshops on AI native Communications Systems-towards Integrated Intelligent and Highly Efficient Communications Systems.
+This is the repository related to the paper: L. Roque, Q. Lampin, L-A. Dufrène, G. Larue, G. Lefebvre, M. Assaad, "Compacting Semantic Matryoshka Representations with Product Quantization", accepted at the 2025 IEEE Globecom Workshops on AI native Communications Systems-towards Integrated Intelligent and Highly Efficient Communications Systems.
 
 Some instructions about the usage of the current implementations:
 - For publishing the paper at GLOBECOM 2025, we used the following resources from this repository:
